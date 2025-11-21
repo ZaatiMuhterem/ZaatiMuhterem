@@ -1,5 +1,5 @@
 ## Hi there 👋
-https://user-images.githubusercontent.com/74038190/212284136-03988914-d899-44b4-b1d9-4eeccf656e44.gif<img width="890" height="300" alt="image" src="https://github.com/user-attachments/assets/ac4a7ac0-2067-4030-8db0-fc5093b43249" />
+![4p9o4o](https://user-images.githubusercontent.com/74038190/212284136-03988914-d899-44b4-b1d9-4eeccf656e44.gif)
 
 <!--
 **ZaatiMuhterem/ZaatiMuhterem** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
